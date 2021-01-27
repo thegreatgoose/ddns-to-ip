@@ -5,7 +5,7 @@ Are those IPs in question dynamic? You want an easy fix using a free dynamic dns
 
 This just looks up whatever domain you want IP's from and outputs them as a Nginx config file which you can then include in your Nginx config.
 
-Just put it all into a folder of your choice, edit getnewips.sh with the correct paths.  
+Just put it all into a folder(I'm using ddnstoip in root) of your choice, edit getnewips.sh with the correct paths.  
 Add your domains to the allowed-domain.list
 
 And finally include the newestips.conf to your nginx config file.  
