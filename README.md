@@ -5,12 +5,6 @@ Do you have Nginx installation? Want to restrict access with to certain IP's? Ar
 
 This just looks up whatever domain you want IP's from and outputs them as a Nginx config file which you can then include in your Nginx config.
 
-Add it as a cronjob to do it automaticly.
-
-
-
-
-
 
 
 
