@@ -1,13 +1,11 @@
 DDNS-to-IP
 
-Do you have Nginx installation? Want to restrict access with to certain IP's?
-
-Are those IPs in question dynamic? You want an easy fix using a free dynamic dns provider?
+Do you have Nginx installation? Want to restrict access with to certain IP's? Are those IPs in question dynamic? You want an easy fix using a free dynamic dns provider?
 
 
 This just looks up whatever domain you want IP's from and outputs them as a Nginx config file which you can then include in your Nginx config.
 
-Add is as a cronjob to do it automaticly.
+Add it as a cronjob to do it automaticly.
 
 
 
