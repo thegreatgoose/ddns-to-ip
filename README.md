@@ -12,7 +12,7 @@ And finally include the newestips.conf to your nginx config file.
 ![image](https://user-images.githubusercontent.com/50523899/105985970-86f06c00-609c-11eb-9cbd-b9e39829d520.png)
 
 
-Add it as a cronjob to do it all automaticly:  
+Either manually run getnewips.sh or add it as a cronjob to do it all automaticly:  
 ![image](https://user-images.githubusercontent.com/50523899/105985584-ef8b1900-609b-11eb-8298-9d8d62efa7eb.png)
 
 
