@@ -1,6 +1,6 @@
 # DDNS-to-IP
 
-Do you have Nginx installation? Want to restrict access to certain IP's?  
+Do you have Nginx installed? Want to deny all access except certain IP's?  
 Are those IPs in question dynamic? You want an easy fix using a free dynamic dns provider?
 
 This just looks up whatever domain you want IP's from and outputs them as a Nginx config file which you can then include in your Nginx config.
